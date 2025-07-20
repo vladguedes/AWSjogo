@@ -1,0 +1,23 @@
+{
+  "name": "Snake ODS - Fome Zero e Bem-Estar",
+  "short_name": "SnakeODS",
+  "description": "Um jogo da cobrinha inspirado nos Objetivos de Desenvolvimento Sustentável 2 (Fome Zero) e 3 (Saúde e Bem-Estar).",
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#030712",
+  "theme_color": "#34d399",
+  "icons": [
+    {
+      "src": "icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
